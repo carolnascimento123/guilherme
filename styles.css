@@ -1,6 +1,22 @@
-    body{
-        color: aqua;
-        background-color: aquamarine;
-        font-size: 40px;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
-    }
+header{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+body{
+    text-align: center;
+    color: aquamarine;
+    background-image:linear-gradient(to right, white, aquamarine);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+.botao{
+    border-radius: 60px;
+}
